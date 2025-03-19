@@ -1,5 +1,5 @@
-// Drew Davis; wad108
-// 3-18-2025
+# Drew Davis; wad108
+# 3-18-2025
 
 def feet_and_inches_to_inches(feet: int, inches: int) -> int:
     """Convert height from feet and inches to total inches."""
